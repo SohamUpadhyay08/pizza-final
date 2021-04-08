@@ -1,1 +1,4 @@
-# pizza-final
+story of pizza
+The word “pizza” is thought to have come from the Latin word pinsa, meaning flatbread (although there is much debate about the origin of the word). A legend suggests that Roman soldiers gained a taste for Jewish Matzoth while stationed in Roman occupied Palestine and developed a similar food after returning home.
+The story of pizza is a long one. From the Greeks to the Egyptians, from the Persians to the Indians, there have been incarnations of pizza served throughout history.
+Modern pizza developed in Naples when tomato was added to the focaccia in the late 18th century. [citation needed] The word pizza was first documented in 997 A.D. in Gaeta and successively in different parts of Central and Southern Italy. Pizza was mainly eaten in Italy and by emigrants from there.
